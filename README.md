@@ -1,1 +1,1 @@
-# SCLC_Subtyping
+These files contain the source code used for the analyses included in the publication Heeke et al 2023, "Tumor- and circulating-free DNA methylation identifies clinically relevant small cell lung cancer subtypes".
